@@ -4,7 +4,7 @@
 
 Sivuston käyttöliittymäkoodi on avoimen lähdekoodin, tervetuloa auttamaan käännöksen optimoinnissa
 
-* [käyttöliittymäkoodi](https://github.com/xxai-art/web)
+* [Käyttöliittymän koodi](https://github.com/xxai-art/web)
 * [Kielipaketit koko sivustolle](https://github.com/xxai-art/web/tree/main/i18n)
 * [Kielipaketit kirjautumismoduuleille](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Verkkosivuston monikielinen dokumentaatio](https://github.com/xxai-doc)
