@@ -17,14 +17,14 @@ Käyttöliittymän ohjelmointikieli on [@w5/coffee_plus](http://npmjs.com/@w5/co
 
 Rakenna seuraavien 3 projektiin
 
-### [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
 
-Merkintämalli, jossa on pääte `.mdt` , voi viitata ulkoisiin tiedostoihin, joiden syntaksi on samanlainen kuin `<+ ./coffee_plus/import.js>` .
+  Suffiksi on `.mdt` , voit käyttää syntaksia, joka on samanlainen kuin `<+ ./coffee_plus/import.js>` viitataksesi ulkoisiin tiedostoihin ja luoda merkintöjä jälkiliitteellä `.md` .
 
-[@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
 
-Markdown-käännös ei käännä koodeja ja linkkejä, vaan tallentaa käännetyt lauseet välimuistiin. Jos käännöstä muutetaan, mutta alkuperäistä tekstiä ei ole muokattu, sen uudelleen suorittaminen ei korvaa käännöksen muutosta.
+  Markdown-käännös ei käännä koodeja ja linkkejä, vaan tallentaa käännetyt lauseet välimuistiin. Jos käännöstä muutetaan, mutta alkuperäistä tekstiä ei ole muokattu, sen uudelleen suorittaminen ei korvaa käännöksen muutosta.
 
-[@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
 
-Kielitiedostot `yaml` luomien verkkosivustojen kääntämiseen.
+  Kielitiedostot `yaml` luomien verkkosivustojen kääntämiseen.
