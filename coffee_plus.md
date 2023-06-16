@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , lisää ominaisuuksia coffeescript-syntaksin perusteella, katso [coffee_plus](./coffee_plus.md) .
 
-* ilmoittaa muuttuja
+## ilmoittaa muuttuja
 
 ```
 + var1, var2
 ```
 
-* ilmoitustarra
+## ilmoitustarra
 
 `:$` on tarkoitettu käytettäväksi [svelten](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) kanssa.
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* nopea tuonti
+## nopea tuonti
 
 ```
 > zx/globals:
